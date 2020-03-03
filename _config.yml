@@ -1,15 +1,12 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: 司马鬼才
+title: GhostSima | A blog of GhostSima
+description: 记录司马鬼才的生活点滴
 tags:
   - blog
   - template
-  - jekyll
-  - theme
-  - netlify
 email: youremail@xyz.com
-disqus_username: disqus_username
+disqus_username: GhostSima
 show_hero: true
 menu:
   - title: Home
@@ -24,12 +21,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: GhostSima
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 
 # Posts Settings
